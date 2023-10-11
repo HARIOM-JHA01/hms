@@ -1,0 +1,13 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.custom-nav {
+    background-color:blueviolet;
+}
+
+.nav-link {
+    color: white;
+}
